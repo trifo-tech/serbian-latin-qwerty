@@ -27,3 +27,12 @@ Nakon restarta, potrebno je da aktivirate novi raspored:
 
 ---
 *Napomena: Ovaj drajver radi na nivou Windows kernela i ne troši resurse niti zahteva .NET Framework 3.5 nakon instalacije.*
+---
+
+## 🛠️ Hardverski bonus (Za perfekcioniste)
+
+Ako vaša fizička tastatura ima QWRETZ raspored tastera i imate sreću da su tasteri u svim redovima istog profila/visine, nakon instalacije softvera možete uraditi i fizički mod:
+1. Pažljivo skinite kapicu sa tastera **Z** i kapicu sa tastera **Y**.
+2. Zamijenite im mjesta na tastaturi.
+
+Sada ne samo da sistem kuca QWERTY, nego i vaši prsti i oči vide tačno ono što tastatura piše! 😂
