@@ -31,7 +31,7 @@ Nakon restarta, potrebno je da aktivirate novi raspored:
 
 ## 🛠️ Hardverski bonus (Za perfekcioniste)
 
-Ako vaša fizička tastatura ima QWRETZ raspored tastera i imate sreću da su tasteri u svim redovima istog profila/visine, nakon instalacije softvera možete uraditi i fizički mod:
+Ako vaša fizička tastatura ima QWERTZ raspored tastera i imate sreću da su tasteri u svim redovima istog profila/visine, nakon instalacije softvera možete uraditi i fizički mod:
 1. Pažljivo skinite kapicu sa tastera **Z** i kapicu sa tastera **Y**.
 2. Zamijenite im mjesta na tastaturi.
 
